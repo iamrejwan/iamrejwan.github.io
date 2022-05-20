@@ -1,4 +1,4 @@
-# <p align="center">Rejwan's Portfalio<p>
+# <p align="center">Rejwan's Portfolio<p>
 
 ```py
 Fork this and add something new here and make pull request
